@@ -1,0 +1,45 @@
+EuropeCoin	Silne Kup	0.534801	0.437693 Kup	0.378279 Kup	0.175299 Kup	0.531649 Sprzedaj	0.343736 Neutralnie
+Diamond	Silne Kup	7.64701	6.783947 Kup	5.584911 Kup	2.558178 Kup	8.355269 Neutralnie	5.212624 Neutralnie
+Stealthcoin	Silne Kup	0.205904	0.175309 Kup	0.158928 Kup	0.074419 Kup	0.230714 Neutralnie	0.119905 Neutralnie
+Decred	Silne Kup	34.70537	30.8594 Kup	30.968763 Kup	23.77517 Kup	36.637306 Neutralnie	25.081495 Neutralnie
+Gambit	Silne Kup	11.179439	9.815702 Kup	8.627723 Kup	4.960711 Kup	11.90915 Neutralnie	7.722255 Neutralnie
+BitBean	Silne Kup	0.002901	0.002697 Kup	0.002766 Kup	0.001925 Kup	0.003332 Neutralnie	0.002063 Neutralnie
+Unobtanium	Silne Kup	97.33476	89.50691 Kup	78.7215 Kup	35.92009 Kup	105.35026 Neutralnie	73.663574 Neutralnie
+Bata	Silne Kup	0.664235	0.565992 Kup	0.543148 Kup	0.406655 Kup	0.729392 Neutralnie	0.402592 Neutralnie
+Nexium	Silne Kup	0.418137	0.275342 Kup	0.253274 Kup	0.186154 Kup	0.37854 Sprzedaj	0.172144 Neutralnie
+TrustPlus	Silne Kup	0.069576	0.055935 Kup	0.052442 Kup	0.029088 Kup	0.074894 Neutralnie	0.036977 Neutralnie
+EBoost	Silne Kup	0.168988	0.12119 Kup	0.144868 Kup	0.08646 Kup	0.16465 Sprzedaj	0.077729 Neutralnie
+FairCoin	Silne Kup	0.740743	0.648345 Kup	0.580567 Kup	0.240746 Kup	0.737771 Sprzedaj	0.558918 Neutralnie
+Clams	Silne Kup	8.042997	7.000565 Kup	6.682756 Kup	4.22147 Kup	8.295588 Neutralnie	5.705541 Neutralnie
+KoreCoin	Silne Kup	4.302291	3.203832 Kup	2.318127 Kup	0.951026 Kup	4.81811 Neutralnie	1.589554 Neutralnie
+ExclusiveCoin	Silne Kup	1.342973	1.225181 Kup	1.080868 Kup	0.46796 Kup	1.48379 Neutralnie	0.966571 Neutralnie
+VTorrent	Silne Kup	0.210952	0.184628 Kup	0.189144 Kup	0.157497 Kup	0.229963 Neutralnie	0.139293 Neutralnie
+Rise	Silne Kup	0.47095	0.366687 Kup	0.230061 Kup	0.082033 Kup	0.517237 Neutralnie	0.216138 Neutralnie
+Xaurum	Silne Kup	0.193021	0.173456 Kup	0.180649 Kup	0.180599 Kup	0.202805 Neutralnie	0.144107 Neutralnie
+ParkByte	Silne Kup	0.354136	0.34613 Kup	0.33112 Kup	0.180884 Kup	0.422762 Neutralnie	0.269498 Neutralnie
+ArtByte	Silne Kup	0.00727	0.006726 Kup	0.0073 Sprzedaj	0.004261 Kup	0.008286 Neutralnie	0.005166 Neutralnie
+ZCoin	Silne Kup	10.662418	9.357344 Kup	10.185473 Kup	8.219073 Kup	12.427302 Neutralnie	6.287386 Neutralnie
+UnbreakableCoin	Silne Kup	0.250317	0.236232 Kup	0.249355 Kup	0.12669 Kup	0.277634 Neutralnie	0.19483 Neutralnie
+Einsteinium	Silne Kup	0.062231	0.043653 Kup	0.046659 Kup	0.036976 Kup	0.065097 Neutralnie	0.022209 Neutralnie
+WhiteCoin	Silne Kup	0.026783	0.014913 Kup	0.010702 Kup	0.005702 Kup	0.026788 Neutralnie	0.003039 Neutralnie
+2GIVE	Silne Kup	0.005274	0.005105 Kup	0.005027 Kup	0.002873 Kup	0.005888 Neutralnie	0.004321 Neutralnie
+Syndicate	Silne Kup	0.247944	0.176412 Kup	0.176409 Kup	0.103561 Kup	0.244325 Sprzedaj	0.108499 Neutralnie
+DopeCoin	Silne Kup	0.029119	0.02807 Kup	0.026613 Kup	0.014124 Kup	0.035237 Neutralnie	0.020903 Neutralnie
+HempCoin	Silne Kup	0.012544	0.01186 Kup	0.010311 Kup	0.005767 Kup	0.017032 Neutralnie	0.006689 Neutralnie
+Influxcoin	Silne Kup	0.639712	0.556375 Kup	0.534675 Kup	0.290566 Kup	0.725349 Neutralnie	0.387402 Neutralnie
+Dash	Silne Kup	349.23578	321.07306 Kup	293.97098 Kup	166.81128 Kup	370.80133 Neutralnie	271.34482 Neutralnie
+I/O Coin	Silne Kup	3.4207	2.785884 Kup	2.336834 Kup	1.191487 Kup	3.902644 Neutralnie	1.669123 Neutralnie
+SingularDTV	Silne Kup	0.173922	0.157678 Kup	0.152402 Kup	0.126172 Kup	0.198611 Neutralnie	0.116744 Neutralnie
+Vertcoin	Silne Kup	1.09243	0.854016 Kup	0.731893 Kup	0.450274 Kup	1.201245 Neutralnie	0.506787 Neutralnie
+BitSend	Silne Kup	0.389922	0.366288 Kup	0.356235 Kup	0.22865 Kup	0.504378 Neutralnie	0.228198 Neutralnie
+WeTrust	Silne Kup	0.32739	0.27109 Kup	0.265218 Kup	—	0.326077 Sprzedaj	0.216103 Neutralnie
+Pesetacoin	Silne Kup	0.032848	0.034542 Sprzedaj	0.025151 Kup	0.011708 Kup	0.047644 Neutralnie	0.021439 Neutralnie
+Tokes	Silne Kup	2.980149	2.170539 Kup	2.196512 Kup	—	2.808983 Sprzedaj	1.532096 Neutralnie
+GoldCoin	Silne Kup	0.115609	0.114021 Kup	0.115157 Kup	0.075848 Kup	0.136507 Neutralnie	0.091536 Neutralnie
+TransferCoin	Silne Kup	0.427894	0.389159 Kup	0.382261 Kup	0.286947 Kup	0.560827 Neutralnie	0.21749 Neutralnie
+LoMoCoin	Silne Kup	0.050817	0.044568 Kup	0.051216 Sprzedaj	0.032095 Kup	0.065664 Neutralnie	0.023472 Neutralnie
+Synergy	Silne Kup	1.43146	1.344648 Kup	1.340823 Kup	0.725639 Kup	1.622228 Neutralnie	1.067068 Neutralnie
+Startcoin	Silne Kup	0.051608	0.03952 Kup	0.041796 Kup	0.028364 Kup	0.057458 Neutralnie	0.021582 Neutralnie
+Crown	Silne Kup	1.458771	1.42498 Kup	1.275352 Kup	0.866703 Kup	1.719961 Neutralnie	1.129999 Neutralnie
+Lisk	Silne Kup	5.997064	6.24155 Sprzedaj	4.770378 Kup	2.157395 Kup	7.744939 Neutralnie	4.738162 Neutralnie
+Internet Of People	Silne Kup	2.37321	1.173853 Kup	0.868451 Kup	2.374765 Sprzedaj	3.040973 Neutralnie	-0.693267 Neutralnie

@@ -1,0 +1,40 @@
+ZCoin	Kup	24.23 Neutralnie	0.209261 Kup	2.72023	66.91 Neutralnie	-0.145064 Kup	-0.448409	2.222685 Kup
+HempCoin	Kup	56.08 Neutralnie	0.000801 Neutralnie	0.003738	22.80 Neutralnie	0.000628 Sprzedaj	0.000778	-0.008829 Kup
+I/O Coin	Kup	34.75 Neutralnie	1.117904 Kup	0.693014	88.56 Neutralnie	0.36241 Kup	0.286198	0.569561 Kup
+ArtByte	Kup	26.99 Neutralnie	-0.00009 Neutralnie	0.001923	61.06 Neutralnie	-0.000125 Kup	-0.000236	0.000912 Kup
+FairCoin	Kup	51.72 Neutralnie	0.082232 Kup	0.14617	170.99 Neutralnie	0.038065 Kup	0.032993	0.093944 Kup
+LoMoCoin	Kup	28.03 Neutralnie	0.003701 Neutralnie	0.015576	46.58 Neutralnie	0.001374 Kup	0.000623	0.003003 Kup
+DopeCoin	Kup	54.13 Neutralnie	0.000572 Neutralnie	0.008435	28.06 Neutralnie	0.000813 Sprzedaj	0.000914	-0.010168 Kup
+Memetic	Kup	27.63 Neutralnie	0.000663 Neutralnie	0.037387	29.51 Neutralnie	0.000015 Kup	-0.000382	-0.010727 Kup
+Santiment Network Token	Kup	20.82 Kup	-0.017897 Neutralnie	0.057948	78.21 Neutralnie	-0.002789 Kup	-0.00947	0.0687 Sprzedaj
+BitSend	Kup	39.33 Neutralnie	0.062634 Kup	0.117163	37.71 Neutralnie	0.011143 Kup	0.004481	0.063814 Sprzedaj
+Influxcoin	Kup	35.73 Neutralnie	0.047473 Kup	0.176812	85.09 Neutralnie	0.016168 Kup	0.011325	0.114324 Sprzedaj
+Stealthcoin	Kup	52.01 Neutralnie	0.036852 Kup	0.058258	86.46 Neutralnie	0.014244 Kup	0.011878	0.055431 Sprzedaj
+TrustPlus	Kup	46.83 Neutralnie	0.009939 Kup	0.018331	134.80 Neutralnie	0.003344 Kup	0.001935	0.023465 Sprzedaj
+Pascal Coin	Kup	10.50 Neutralnie	-0.044133 Neutralnie	0.09151	34.56 Neutralnie	-0.020035 Kup	-0.024954	-0.005299 Kup
+Dash	Kup	19.97 Neutralnie	9.358329 Kup	50.7811	104.13 Neutralnie	8.765103 Kup	7.282919	51.6197 Sprzedaj
+ExclusiveCoin	Kup	60.38 Neutralnie	0.147716 Kup	0.401959	73.95 Neutralnie	0.046643 Kup	0.044264	0.227366 Sprzedaj
+WhiteCoin	Kup	61.77 Neutralnie	0.013104 Kup	0.006279	165.49 Neutralnie	0.003944 Kup	0.002498	0.015601 Sprzedaj
+Darcrus	Kup	51.37 Neutralnie	0.070341 Neutralnie	0.180107	-31.60 Neutralnie	0.026752 Sprzedaj	0.042606	0.010719 Kup
+Internet Of People	Kup	49.21 Neutralnie	1.864924 Kup	0.777393	106.77 Neutralnie	0.440366 Kup	0.269007	1.784476 Sprzedaj
+Nexus	Kup	32.38 Neutralnie	0.101189 Neutralnie	0.687132	-196.73 Kup	0.085038 Sprzedaj	0.246406	-1.26145 Kup
+Crown	Kup	34.77 Neutralnie	0.120229 Neutralnie	0.35788	17.99 Neutralnie	0.051215 Kup	0.050194	0.02941 Sprzedaj
+Synergy	Kup	30.37 Neutralnie	-0.115966 Neutralnie	0.361649	53.52 Neutralnie	-0.011278 Kup	-0.022118	0.166769 Sprzedaj
+OKCash	Kup	41.51 Neutralnie	0.078902 Neutralnie	0.14093	-67.71 Neutralnie	0.040695 Sprzedaj	0.085485	-0.343793 Sprzedaj
+WeTrust	Kup	34.26 Neutralnie	0.029783 Neutralnie	0.080853	154.41 Neutralnie	0.010486 Kup	0.006472	0.0647 Sprzedaj
+Lunyr	Kup	24.55 Kup	-2.586667 Sprzedaj	3.20549	-85.07 Neutralnie	-0.771931 Sprzedaj	-0.337312	-4.652953 Sprzedaj
+Steem Dollars	Kup	19.75 Neutralnie	0.058001 Kup	0.180382	105.99 Neutralnie	0.011195 Kup	0.001087	0.096475 Sprzedaj
+Einsteinium	Kup	22.39 Neutralnie	0.015491 Neutralnie	0.01327	133.93 Sprzedaj	0.004207 Kup	0.001106	0.023297 Kup
+Gambit	Kup	40.84 Neutralnie	1.588726 Neutralnie	2.041985	95.44 Neutralnie	0.602904 Kup	0.497946	2.723364 Sprzedaj
+Patientory	Kup	28.14 Neutralnie	0.033573 Neutralnie	0.113562	36.66 Neutralnie	0.019884 Sprzedaj	0.025889	-0.120357 Kup
+Decred	Kup	19.35 Neutralnie	1.218183 Kup	6.8739	113.50 Neutralnie	0.267722 Kup	-0.158473	8.500569 Sprzedaj
+TransferCoin	Kup	48.71 Neutralnie	0.089081 Kup	0.140489	47.28 Neutralnie	0.017599 Kup	0.008719	0.086477 Sprzedaj
+KoreCoin	Kup	59.65 Neutralnie	1.022121 Neutralnie	1.267041	112.09 Neutralnie	0.425905 Kup	0.407715	1.958627 Sprzedaj
+0x	Kup	23.37 Neutralnie	-0.087623 Sprzedaj	58574.992	-96.63 Neutralnie	-0.046738 Kup	-0.049795	-0.038306 Sprzedaj
+CloakCoin	Kup	40.14 Neutralnie	0.343373 Neutralnie	2.445333	-32.69 Neutralnie	0.351056 Sprzedaj	0.675396	-0.800109 Sprzedaj
+Clams	Kup	22.71 Neutralnie	0.309959 Kup	1.171327	139.58 Neutralnie	0.17179 Kup	0.090474	1.631545 Sprzedaj
+Nexium	Kup	26.09 Neutralnie	0.060707 Kup	0.069193	224.01 Neutralnie	0.027937 Kup	0.01507	0.181515 Sprzedaj
+EBoost	Kup	33.16 Neutralnie	-0.009502 Neutralnie	0.05437	170.40 Neutralnie	-0.003678 Kup	-0.009303	0.067988 Sprzedaj
+Unobtanium	Kup	26.87 Neutralnie	10.838964 Neutralnie	18.525335	101.45 Neutralnie	4.910834 Kup	4.798477	16.421412 Sprzedaj
+Tokes	Kup	36.99 Neutralnie	0.348393 Kup	0.631602	207.92 Neutralnie	0.118945 Kup	0.037238	1.013652 Sprzedaj
+Agoras Tokens	Kup	25.56 Neutralnie	0.007541 Kup	0.090133	59.72 Neutralnie	-0.009458 Kup	-0.017129	0.054086 Sprzedaj
