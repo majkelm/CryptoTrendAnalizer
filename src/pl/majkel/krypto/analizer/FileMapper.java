@@ -29,6 +29,15 @@ public class FileMapper {
         return result;
     }
 
+    public static List<String> getCryptoWithBestMarketCap() throws FileNotFoundException {
+        Scanner scanner = new Scanner(new File(CRYPTO_PARAMS_FILE_NAME));
+        List<String> result = new ArrayList<String>();
+        while(scanner.hasNext()){
+            result.add(extractCryptoNameFromLine(scanner.nextLine()));
+        }
+        return result;
+    }
+
     public static String extractCryptoNameFromLine(String line){
         String[] splittedFields  = line.split("\\s");
         return splittedFields[0];
